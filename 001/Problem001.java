@@ -1,6 +1,3 @@
-/**
- * @date 2009/03/23 12:55
- */
 public class Problem001{
 	public static void main(String[] args){
 		int sum = 0;
