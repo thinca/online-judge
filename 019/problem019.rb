@@ -15,4 +15,4 @@ class Date
   end
 end
 
-Date.new(1901, 1, 1).step(Date.new(2000, 12, 31), 1, :next_month).select{ |d| d.cwday == 7 }.count.display
+Date.new(1901, 1, 1).step(Date.new(2000, 12, 31), 1, :next_month).select{ |d| d.sunday? }.count.display
