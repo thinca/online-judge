@@ -1,5 +1,12 @@
-これはProject Eulerに対する私の解答です。
-http://projecteuler.net/
+このリポジトリはオンラインジャッジやプログラミングコンテストのウェブサイトに対する私の解答です。
+
+- project-euler/
+  - [Project Euler](http://projecteuler.net/)
+
 
 突っ込み大歓迎!
-(コメント機能を使って下さい)
+- [@thinca](https://twitter.com/thinca)
+- Github コメント
+- メール
+
+<!-- vim: set ft=markdown: -->
