@@ -1,4 +1,4 @@
-This repository is my answers of online judge and programming contest websites.
+このリポジトリはオンラインジャッジやプログラミングコンテストのウェブサイトに対する私の解答です。
 
 - 4clojure/
   - [4clojure](https://www.4clojure.com/)
@@ -10,9 +10,7 @@ This repository is my answers of online judge and programming contest websites.
   - [Sphere online judge](http://www.spoj.pl/)
 
 
-Your opinion is welcomed.
+突っ込み大歓迎!
 - [@thinca](https://twitter.com/thinca)
-- Github comment
-- E-mail
-
-<!-- vim: set ft=markdown: -->
+- Github コメント
+- メール
